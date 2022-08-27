@@ -7,7 +7,7 @@ package com.javabasics;
 			
 		}
 
-		public int i;
+		
 		
 	}
 	class b{
